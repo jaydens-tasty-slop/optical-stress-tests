@@ -4,6 +4,8 @@
 
 Some tools for stress testing optical media (CD-R, DVD-R, BD-R).
 
+[See the blog post for why I had a robot build this](https://jayd.ml/2026/09/05/burned-media-torture-test.html)
+
 - Generate ISO files for each file size
 - Verification script
 - Go utility to generate a sector map for each disc
